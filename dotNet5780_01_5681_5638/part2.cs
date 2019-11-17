@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace dotNet5780_01_5681_5638
 {
-    class Program
+    class part2
     {
         static void Main(string[] args)
         {
